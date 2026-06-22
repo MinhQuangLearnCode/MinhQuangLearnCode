@@ -7,7 +7,6 @@ Hi there 👋, I'm Minh Quang
 🌱 Currently learning:
 
 C++
-Data Structures & Algorithms
 Software Design
 Game Development Fundamentals
 
@@ -15,14 +14,11 @@ Game Development Fundamentals
 
 Building small projects to improve my programming skills
 Exploring game mechanics and horror game design
-Learning how software systems are structured and maintained
 
 🎮 Interests:
 
 Horror Game Development
 Gameplay Programming
-System Design
-Backend Development
 
 👯 Open to:
 
