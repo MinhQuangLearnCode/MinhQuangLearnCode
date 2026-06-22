@@ -44,3 +44,7 @@ Email: quang0842990383@gmail.com
 ⚡ Fun fact:
 One of my goals is to create a horror game that delivers memorable experiences through atmosphere, storytelling, and gameplay.
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MinhQuangLearnCode&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinhQuangLearnCode&layout=compact&theme=radical)
+
