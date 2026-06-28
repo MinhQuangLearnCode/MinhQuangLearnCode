@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Minh Quang</h1>
+<h1 align="center">VERY GLAD TO SEE YOU ! I'm Minh Quang</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=FF0000&center=true&vCenter=true&width=800&lines=Third-Year+IT+Student;Passionate+About+Game+Development;Future+Horror+Game+Developer;Currently+Learning+C%2B%2B+and+Unity;Welcome+to+my+GitHub!" />
